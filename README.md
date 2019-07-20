@@ -1,0 +1,2 @@
+# smartbin
+A smart bin
